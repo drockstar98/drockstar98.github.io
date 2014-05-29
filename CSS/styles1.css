@@ -1,0 +1,20 @@
+body{
+	background-image: url(http://24.media.tumblr.com/d9ceaa8db172278d4a15919515f01d4f/tumblr_mjkruiCHTh1rmj5xdo1_500.png);
+}
+
+#title{
+	margin: 0 auto;
+	background-color:#D30284;
+	width:800px;
+}
+#inside{
+	margin: 0 auto;
+	background-color:#2BE0DB;
+	width:800px;
+}
+#title p{
+	margin-bottom: 0;
+}
+h2{
+	margin-top: 0;
+}
